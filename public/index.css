@@ -1,0 +1,44 @@
+html, body {
+    margin:0;
+    padding:0;
+    height:100%;
+  }
+
+body{
+    background-image: url("https://marcadegol.com/fotos//2016/12/boca-juniors-estadio-alberto-jose-armando-local.jpg");
+}
+
+.titulos{
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(0, 0, 255, 0.418);
+    padding-left: 100px;
+    color: white;
+}
+
+.text{
+    margin-bottom: 20px;
+    font-family: fantasy;
+}
+
+.text1{
+    margin-bottom: 20px;
+    font-family: fantasy;
+}
+
+#pagina {
+    position: relative;
+    min-height: 212px;
+}
+   
+#pie {
+    height:60px;
+    line-height:60px;
+    background:rgba(0, 0, 255, 0.418);
+    color:white;
+    text-align:center;
+    position:absolute;
+    bottom:0;
+    left:0;
+    width:100%;
+}
