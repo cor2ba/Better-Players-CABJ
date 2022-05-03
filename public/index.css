@@ -6,6 +6,7 @@ html, body {
 
 body{
     background-image: url("https://marcadegol.com/fotos//2016/12/boca-juniors-estadio-alberto-jose-armando-local.jpg");
+    background-attachment: fixed
 }
 
 .titulos{
