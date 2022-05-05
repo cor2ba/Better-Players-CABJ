@@ -5,11 +5,11 @@ import data from "./data.js";
 function App(){
   return(
     <div>
-     <div>
-       <Cartita
-       jugadores={data}
-       />
-     </div>
+      <div>
+        <Cartita
+        jugadores={data}
+        />
+      </div>
     </div>
   );
 }

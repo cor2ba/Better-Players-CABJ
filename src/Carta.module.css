@@ -9,16 +9,23 @@
     background-color: rgba(255, 255, 255, 0.684);
 }
 
+.contenedor:hover{
+    border: rgb(190, 155, 0) 2px solid;
+    transform: scale(1.1);
+}
+
 .img{
+    cursor: pointer;
     max-width: 400px;
     min-width: 400px;
     max-height: 230px;
+    min-height: 230px;
 }
 
 .titulo{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 22px;
-    color: rgb(255, 221, 0);
+    color: rgb(255, 200, 0);
     -webkit-text-stroke-width: 0.5px;
     -webkit-text-stroke-color: black;
 }

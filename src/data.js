@@ -1,14 +1,26 @@
-export const Maradona = JSON.parse(`{"img":{"i":"https://tntsports.com.ar/__export/1635176794789/sites/tntsports/img/2021/10/25/maradonaboca.jpg"},"posicion":{"p":"Midfield"},"nombre":{"n":"Diego Maradona"},"club":{"ca":"Estrella Roja"}}`)
-export const Riquelme = JSON.parse(`{"img":{"i":"https://resizer.glanacion.com/resizer/H67wUjEugfOzT3hRawEOIlGxwZY=/1200x746/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/BPZX5263MZDBFNHZDVZ5BLP73Y.jpg"},"posicion":{"p":"Midfield"},"nombre":{"n":"Juan Roman Riquelme"},"club":{"ca":"Argentino Juniors"}}`)
-export const Palermo = JSON.parse(`{"img":{"i":"https://www.tiempofueguino.com/wp-content/uploads/2020/04/Mart%C3%ADn-Palermo2.jpg"},"posicion":{"p":"Forward"},"nombre":{"n":"Martin Palermo"},"club":{"ca":"Godoy Cruz"}}`)
+export const Maradona = JSON.parse(`{"img":{"i":"https://tntsports.com.ar/__export/1635176794789/sites/tntsports/img/2021/10/25/maradonaboca.jpg"},"posicion":{"p":"Midfield"},"nombre":{"n":"Diego Maradona"},"club":{"ca":"Argentino Juniors"}}`)
+export const Riquelme = JSON.parse(`{"img":{"i":"https://resizer.glanacion.com/resizer/H67wUjEugfOzT3hRawEOIlGxwZY=/1200x746/smart/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/BPZX5263MZDBFNHZDVZ5BLP73Y.jpg"},"posicion":{"p":"Midfield"},"nombre":{"n":"Juan Román Riquelme"},"club":{"ca":"Argentinos Juniors"}}`)
+export const Palermo = JSON.parse(`{"img":{"i":"https://www.tiempofueguino.com/wp-content/uploads/2020/04/Mart%C3%ADn-Palermo2.jpg"},"posicion":{"p":"Forward"},"nombre":{"n":"Martin Palermo"},"club":{"ca":"Estudiantes de la Plata"}}`)
 export const Tevez = JSON.parse(`{"img":{"i":"https://cdn.futbolperuano.com/sdi/2021/06/04/el-adios-del-apache-carlos-tevez-anuncia-su-salida-de-boca-juniors-923655.jpg"},"posicion":{"p":"Forward"},"nombre":{"n":"Carlos Tevez"},"club":{"ca":"Boca Juniors"}}`)
-export const Rojas = JSON.parse(`{"img":{"i":"https://images.ole.com.ar/2019/09/29/NQNbNzoj_600x338__1.jpg"},"posicion":{"p":"Forward"},"nombre":{"n":"ÁNGEL CLEMENTE ROJAS"},"club":{"ca":"Boca Juniors"}}`)
+export const Rojas = JSON.parse(`{"img":{"i":"https://images.ole.com.ar/2019/09/29/NQNbNzoj_600x338__1.jpg"},"posicion":{"p":"Forward"},"nombre":{"n":"Ángel Clemente Rojas"},"club":{"ca":"Boca Juniors"}}`)
 export const Varallo = JSON.parse(`{"img":{"i":"https://img.vavel.com/rip-varallo-1-1-1590954669030.jpg"},"posicion":{"p":"Forward"},"nombre":{"n":"Francisco Varallo"},"club":{"ca":"Boca Juniors"}}`)
 export const Schelotto = JSON.parse(`{"img":{"i":"https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt78d81ad283e166aa/615f3368dfb62209b2f46bf6/2bd462c46216b25692726df0ba18fc10e0a73c79.jpg?auto=webp&format=jpg&quality=100"},"posicion":{"p":"Forward"},"nombre":{"n":"Guillermo Barros Schelotto"},"club":{"ca":"Gimnasia"}}`)
 export const Bermúdez = JSON.parse(`{"img":{"i":"https://www.futbolred.com/files/article_main/uploads/2020/04/02/5e85810a58550.jpeg"},"posicion":{"p":"Centre Back"},"nombre":{"n":"Jorge Bermúdez"},"club":{"ca":"Deportes Quindío"}}`)
 export const Gatti = JSON.parse(`{"img":{"i":"https://static4.abc.es/media/deportes/2018/11/24/gatti-kOID--620x349@abc.jpg"},"posicion":{"p":"Goalkeeper"},"nombre":{"n":"Hugo Gatti"},"club":{"ca":"Atlanta"}}`)
 export const Rattin = JSON.parse(`{"img":{"i":"https://1.bp.blogspot.com/-r8YOpOB8GUI/XzcuO8bTr6I/AAAAAAAANOA/DQOwbrFrL5E8l3wHU_-E7qK52W4MBhWrwCLcBGAsYHQ/s1600/e437a7b74376ed83321cff0342de7060.jpg"},"posicion":{"p":"Midfield"},"nombre":{"n":"Antonio Rattin"},"club":{"ca":"Boca Juniors"}}`)
+export const Cordoba = JSON.parse(`{"img":{"i":"https://www.futbolred.com/files/article_main/uploads/2020/04/27/5ea6751c464ed.jpeg"},"posicion":{"p":"Forward"},"nombre":{"n":"Oscar Córdoba"},"club":{"ca":"Boca Juniors"}}`)
+export const Battaglia = JSON.parse(`{"img":{"i":"https://www.tvenserio.com/wp-content/uploads/2020/08/sebastianbattaglia_01.jpg"},"posicion":{"p":"Midfield"},"nombre":{"n":"Sebastian Battaglia"},"club":{"ca":"Boca Juniors"}}`)
+export const Schiavi = JSON.parse(`{"img":{"i":"https://img.asmedia.epimg.net/resizer/Y4QWXZMc5BgRnG9irmNMOeyU7pk=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/DC354NW2XZM4NDIMHS7CWWRCI4.jpg"},"posicion":{"p":"Center Back"},"nombre":{"n":"Rolando Schiavi"},"club":{"ca":"Boca Juniors"}}`)
+export const Suñé = JSON.parse(`{"img":{"i":"http://stadium-azteca.underdog.gs/soccerly/2019/04/03/1554328933.jpeg"},"posicion":{"p":"Midfield"},"nombre":{"n":"Rubén Suñé"},"club":{"ca":"Boca Juniors"}}`)
+export const Pescia = JSON.parse(`{"img":{"i":"https://pbs.twimg.com/media/FDIKUQ0XMBI2qA3.jpg"},"posicion":{"p":"Midfield"},"nombre":{"n":"Natalio Pescia"},"club":{"ca":"Boca Juniors"}}`)
+export const Mouzo = JSON.parse(`{"img":{"i":"http://www.lt9.com.ar/uploads/s_cd6b07a7e5b6eed.jpg"},"posicion":{"p":"Center Back"},"nombre":{"n":"Roberto Mouzo"},"club":{"ca":"Boca Juniors"}}`)
+export const Boyé = JSON.parse(`{"img":{"i":"https://fotos.perfil.com/2021/02/02/trim/720/410/carlos-maria-garcia-cambon-20210202-1122605.jpg"},"posicion":{"p":"Forward"},"nombre":{"n":"Mario Boyé"},"club":{"ca":"Boca Juniors"}}`)
+export const Ibarra = JSON.parse(`{"img":{"i":"https://media.tycsports.com/files/2020/05/14/98870/ibarra_862x485.jpg?v=1"},"posicion":{"p":"Right Winger"},"nombre":{"n":"Hugo Ibarra"},"club":{"ca":"Boca Juniors"}}`)
+export const Márcico = JSON.parse(`{"img":{"i":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0NUou2yms74Zn6VNfXwNUx9GUzTd9_a3qgpnN0H7wcHaHohiaZi1jAexOZuVL__ceBJ8&usqp=CAU"},"posicion":{"p":"Forward"},"nombre":{"n":"Alberto Márcico"},"club":{"ca":"Boca Juniors"}}`)
+export const Giunta = JSON.parse(`{"img":{"i":"https://media.tycsports.com/files/2021/11/28/365220/blas-giunta-boca-.jpg"},"posicion":{"p":"Midfield"},"nombre":{"n":"Blas Giunta"},"club":{"ca":"Boca Juniors"}}`)
 
-var jugadores = [Maradona, Riquelme, Palermo, Tevez, Rojas, Varallo, Schelotto, Bermúdez, Gatti, Rattin];
+var jugadores = [Maradona, Riquelme, Palermo, Tevez, Rojas, Varallo, Schelotto, Bermúdez, Gatti, Rattin, Cordoba, Battaglia, Schiavi, Suñé, Pescia, Mouzo, Boyé, Ibarra, Márcico, Giunta];
 
 export default jugadores;
+
+//export const  = JSON.parse(`{"img":{"i":""},"posicion":{"p":"Midfield"},"nombre":{"n":""},"club":{"ca":""}}`)
